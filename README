@@ -1,0 +1,9 @@
+quantifies the area occupied by TH stained and TH unstained nerves
+carries out shift of origin for the nerve areas (stained and unstained) relative to the lumen
+calculates the angle relative to the lumen
+converts the angles in rad to deg
+generates the quadrants based on an anatomical key
+counts area of unstained and stained nerves per quadrant
+converts the values from sq microns to sq mm
+rounds of the sq mm
+calculates the % of TH pos and TH neg as a function of the total nerve tissue
